@@ -1,4 +1,4 @@
-# Octoprint-Klipper-Adaptive-Meshing
+# Octoprint Klipper Adaptive Meshing Guide
 This repo includes the instructions to get KAMP working on your printer running Klipper and Octoprint
 
 ### Instructions
