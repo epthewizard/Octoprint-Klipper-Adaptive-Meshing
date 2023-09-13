@@ -9,4 +9,4 @@ This repo includes the instructions to get KAMP working on your printer running 
 4. Once both are setup, you can then put your model in the slicer and add the postprocessing script that will send the objects coordinates to Klipper. Then slice away and KAMP should be working.
 
 ### Troubleshooting
-- If your printer is doing a mesh of your entire bed make sure to add *M117* to the first line of your start GCODE.
+- If your printer is doing a mesh of your entire bed make sure to add **M117** to the first line of your start GCODE.
